@@ -1,0 +1,9 @@
+{
+	"name": "@orago/vector",
+	"version": "0.0.2",
+	"description": "Vector Math",
+	"main": "index.js",
+	"type": "module",
+	"author": "orago",
+	"license": "MIT"
+}
